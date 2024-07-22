@@ -31,8 +31,3 @@ Since the [course](https://www.udemy.com/course/the-complete-web-development-boo
 8. Authentication & Security
 9. DataBases
 10. ReactJS
-
-### Solution
-HTML 4.3 -> Portfolio
-- Solution URL: [Solution URL](https://github.com/lucastsena/The-Complete-2024-Web-Development-Bootcamp/tree/main/1%20html/4.3%20HTML%20Porfolio%20Project) - Live Site URL: [Live URL](https://lucastsena.github.io/The-Complete-2024-Web-Development-Bootcamp/1%20html/4.3%20HTML%20Porfolio%20Project/index.html)
-
